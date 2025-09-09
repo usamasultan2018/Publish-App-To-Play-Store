@@ -1,6 +1,6 @@
 # Publish App To Play Store 🚀
 
-![In-App Purchase Flowchart](ChatGPT Image Sep 9, 2025, 11_14_42 AM.png)
+![In-App Purchase Flowchart](ChatGPT%20Image%20Sep%209%2C%202025%2C%2011_14_42%20AM.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
