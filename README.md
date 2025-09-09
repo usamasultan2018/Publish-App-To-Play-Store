@@ -23,7 +23,7 @@
 - Update package name and generate new app key/signature.
 - Create a new app in Google Play Console:
   - Add app name, icon, description, screenshots.
-  - Add privacy policy URL, terms of service, etc.
+  - Add privacy policy URL, terms of service, and other required information (category, contact info, description, etc.).
   - Add up to 14 tester emails for internal testing.
 
 > ⚠️ Tip: Make sure your package name is unique and matches your Firebase and RevenueCat setup.
