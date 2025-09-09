@@ -1,6 +1,6 @@
 # Publish App To Play Store 🚀
 
-![In-App Purchase Flowchart](in_app_purchase_flowchart.png)
+![In-App Purchase Flowchart](In-App Purchase Integration Flowchart.png)
 
 ![Version](https://img.shields.io/badge/version-1.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Android-green)
